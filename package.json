@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/jayserdny/utopian-api-types#readme",
   "dependencies": {
-    "utopian-api": "^0.3.2"
+    "utopian-api": "^0.4.0"
   }
 }
